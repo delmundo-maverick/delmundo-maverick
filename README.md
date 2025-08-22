@@ -1,11 +1,21 @@
-## Hi, I'm Maverick S. del Mundo  
-👨🏻‍💻 I'm a BSIT Student from Laguna, Philippines  
+## 👋 Hi, I'm Maverick Denver S. del Mundo  
+👨🏻‍💻 A BSIT student at **Laguna State Polytechnic University** from Laguna, Philippines.  
+I’m passionate about technology, web design, and continuously improving my coding skills.  
+
+---
 
 ### 🎯 Goals  
-- Learning python fundamentals  
+- 🚀 To become a skilled **Fullstack Developer**  
+- 📚 Expand my knowledge in backend and frontend development  
+- 💡 Build projects that solve real-world problems  
+
+---
 
 ### 💻 Skills  
 - HTML | CSS | Beginner in Python  
+- Web Design (Figma)  
+
+---
 
 ### ✉️ Contact  
-- diemVSCode@gmail.com  
+- 📧 Email: **diemVSCode@gmail.com**  
