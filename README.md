@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maverick Denver S. del Mundo  
+## 👋 Hi, I'm Maverick Denver S. del Mundo  
 👨🏻‍💻 A BSIT student at **Laguna State Polytechnic University** from Laguna, Philippines.  
 I’m passionate about technology, web design, and continuously improving my coding skills.  
 
@@ -12,7 +12,7 @@ I’m passionate about technology, web design, and continuously improving my cod
 ---
 
 ### 💻 Skills  
-- HTML | CSS | Beginner in Python  
+- HTML | Tailwind | Javascript | Beginner in Python  
 - Web Design (Figma)  
 
 ---
